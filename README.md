@@ -1,0 +1,1 @@
+Node.js application that serves a todo list via HTTP endpoints using Express.js and MongoDB. Additionally, distributed tracing using OpenTelemetry is configured to monitor and trace the operations within this application.
